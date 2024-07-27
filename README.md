@@ -1,10 +1,1 @@
-<head>
-    <style type="text/css">
-        body {
-            background-color: red;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hello, World!</h1>
-</body>
+![](https://raw.githubusercontent.com/rhodem-labs/.github/9cf9b4f5357f32e3c61426a20a07291c07135260/readme.svg)
