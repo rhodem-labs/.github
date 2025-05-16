@@ -1,5 +1,7 @@
 <!-- /automd -->
 
+----
+
 ## Community
 
 Join the Discord server to get announcements, and find out more about updates!
